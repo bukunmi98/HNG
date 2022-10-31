@@ -33,8 +33,13 @@ export default function App() {
               </div>
         </div>
         <div className="menu">
+          <div>
           <img className='mobile_menu_image' src={mobileMenuImage} alt='mobile menu'/>
+          </div>
+          <div>
           <img className='desktop_share_image' src={desktopShareImage } alt='desktop menu'/>
+
+          </div>
          </div>
         <h4 id='twitter'>@kunmi_og</h4>
         <p id="slack"> bukunmi idowu</p>
