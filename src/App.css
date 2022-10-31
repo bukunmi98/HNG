@@ -230,7 +230,12 @@ top: 2em;
       display: none;
     }
     footer {
-      display: none;
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 1.2rem;
+      justify-content: flex-start;
+      width: 100%;
+      margin: 0px;
     }
   }
 
