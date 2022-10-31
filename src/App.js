@@ -16,10 +16,10 @@ export default function App() {
   const twitterLinks="https://twitter.com/_kunmi_OG"
   const zuriTeam='"https://training.zuri.team/"'
   const zuriBooks = "http://books.zuri.team"
-  const bookPython = ""
+  const bookPython = "https://books.zuri.team/python-for-beginners?ref_id=bukunmi id"
   const pitch = "https://background.zuri.team"
   const bookDesign = "https://books.zuri.team/design-rules"
-  const githubLink = "https://github.com/siafromspace"
+  const githubLink = "https://github.com/"
   const slackLink = ""
 
 
