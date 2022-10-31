@@ -47,7 +47,6 @@ main {
   align-items: center;
   width: 88px;
   height: 88px;
-  border: 2px blue solid;
   border-radius: 50%;
 
 }
